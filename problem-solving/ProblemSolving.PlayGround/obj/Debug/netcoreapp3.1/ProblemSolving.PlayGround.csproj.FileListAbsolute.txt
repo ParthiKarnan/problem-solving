@@ -1,0 +1,13 @@
+C:\Users\kpart\source\repos\ParthiKarnan\problem-solving\problem-solving\ProblemSolving.PlayGround\bin\Debug\netcoreapp3.1\ProblemSolving.PlayGround.exe
+C:\Users\kpart\source\repos\ParthiKarnan\problem-solving\problem-solving\ProblemSolving.PlayGround\bin\Debug\netcoreapp3.1\ProblemSolving.PlayGround.deps.json
+C:\Users\kpart\source\repos\ParthiKarnan\problem-solving\problem-solving\ProblemSolving.PlayGround\bin\Debug\netcoreapp3.1\ProblemSolving.PlayGround.runtimeconfig.json
+C:\Users\kpart\source\repos\ParthiKarnan\problem-solving\problem-solving\ProblemSolving.PlayGround\bin\Debug\netcoreapp3.1\ProblemSolving.PlayGround.runtimeconfig.dev.json
+C:\Users\kpart\source\repos\ParthiKarnan\problem-solving\problem-solving\ProblemSolving.PlayGround\bin\Debug\netcoreapp3.1\ProblemSolving.PlayGround.dll
+C:\Users\kpart\source\repos\ParthiKarnan\problem-solving\problem-solving\ProblemSolving.PlayGround\bin\Debug\netcoreapp3.1\ProblemSolving.PlayGround.pdb
+C:\Users\kpart\source\repos\ParthiKarnan\problem-solving\problem-solving\ProblemSolving.PlayGround\obj\Debug\netcoreapp3.1\ProblemSolving.PlayGround.csprojAssemblyReference.cache
+C:\Users\kpart\source\repos\ParthiKarnan\problem-solving\problem-solving\ProblemSolving.PlayGround\obj\Debug\netcoreapp3.1\ProblemSolving.PlayGround.AssemblyInfoInputs.cache
+C:\Users\kpart\source\repos\ParthiKarnan\problem-solving\problem-solving\ProblemSolving.PlayGround\obj\Debug\netcoreapp3.1\ProblemSolving.PlayGround.AssemblyInfo.cs
+C:\Users\kpart\source\repos\ParthiKarnan\problem-solving\problem-solving\ProblemSolving.PlayGround\obj\Debug\netcoreapp3.1\ProblemSolving.PlayGround.csproj.CoreCompileInputs.cache
+C:\Users\kpart\source\repos\ParthiKarnan\problem-solving\problem-solving\ProblemSolving.PlayGround\obj\Debug\netcoreapp3.1\ProblemSolving.PlayGround.dll
+C:\Users\kpart\source\repos\ParthiKarnan\problem-solving\problem-solving\ProblemSolving.PlayGround\obj\Debug\netcoreapp3.1\ProblemSolving.PlayGround.pdb
+C:\Users\kpart\source\repos\ParthiKarnan\problem-solving\problem-solving\ProblemSolving.PlayGround\obj\Debug\netcoreapp3.1\ProblemSolving.PlayGround.genruntimeconfig.cache
